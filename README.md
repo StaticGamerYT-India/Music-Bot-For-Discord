@@ -40,7 +40,7 @@ If you decide to use this Bot, [check out this Github repo first](https://github
  
  **5.** start the bot with **`node index.js`**<br/>
  
- [![Run on Repl.it](https://repl.it/@StaticGamerYTIn/Music-Bot-For-Discord-1](https://repl.it/@StaticGamerYTIn/Music-Bot-For-Discord-1)</br>
+ [![Run on Repl.it](https://repl.it/github/StaticGamerYT-India/Music-Bot-For-Discord](https://repl.it/github/StaticGamerYT-India/Music-Bot-For-Discord)</br>
 
 
 Please subscribe my YT channel and like the video.
