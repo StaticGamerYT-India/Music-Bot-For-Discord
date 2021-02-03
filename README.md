@@ -45,7 +45,12 @@ If you decide to use this Bot, [check out this Github repo first](https://github
 
 Please subscribe my YT channel and like the video.
 
-"https://www.youtube.com/channel/UCSqkMUjNAYX9m15ZMF60ClA?sub_confirmation=1"
+<a href="https://www.youtube.com/channel/UCSqkMUjNAYX9m15ZMF60ClA?sub_confirmation=1" target="_blank" style="display: inline-block;">
+                <img
+                    src="https://1000logos.net/wp-content/uploads/2017/05/youtube-symbol.jpg" 
+                    align="center"
+                />
+ </a>
 
 
 
