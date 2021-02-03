@@ -42,13 +42,13 @@ If you decide to use this Bot, [check out this Github repo first](https://github
  
  [![Run on Repl.it](https://repl.it/badge/github/navaneethkm004/Music-Bot-With-Filters-v2)](https://repl.it/github/navaneethkm004/Music-Bot-With-Filters-v2)</br>
 
-## **TUTORIAL** 
-
-Watch tutorial on YouTube!!<br/>
-
-[<img src="https://github.com/navaneethkm004/my-images/blob/main/Yellow%20Simple%20Education%20YouTube%20Channel%20Art.png?raw=true" width="917" height="515">](https://www.youtube.com/watch?v=IPv1uWSKC-Q)<br/>
 
 Please subscribe my YT channel and like the video.
+
+https://www.youtube.com/channel/UCSqkMUjNAYX9m15ZMF60ClA?sub_confirmation=1
+
+
+
 
 ## Usage - config.json
 
@@ -73,13 +73,13 @@ It is important that you fill in every item of the JSON FILE! every emoji used i
 ## SUPPORT ME
 
 <div align="center">
-            <a href="https://www.buymeacoffee.com/navaneethkm" target="_blank" style="display: inline-block;">
+            <a href="https://www.youtube.com/channel/UCSqkMUjNAYX9m15ZMF60ClA?sub_confirmation=1" target="_blank" style="display: inline-block;">
                 <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square" 
+                    src="https://www.bing.com/images/search?view=detailV2&ccid=7epa8bGY&id=165E7AD2F7EB1819803817958236053D1742816B&thid=OIP.7epa8bGYZ1t4kfhnUyAtRgHaE7&mediaurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fRedea5af1b198675b7891f86753202d46%3frik%3da4FCFz0FNoKVFw%26riu%3dhttp%253a%252f%252f1000logos.net%252fwp-content%252fuploads%252f2017%252f05%252fyoutube-symbol.jpg%26ehk%3dspn2cCoRnv6FvxVznMwMihkHkgPfVE9izKqDGxuqYsM%253d%26risl%3d%26pid%3dImgRaw&exph=1014&expw=1524&q=youtube+logo&simid=608022066751209634&ck=960D2A8151630A54184A6E9CED6B7B15&selectedIndex=4&FORM=IRPRST&ajaxhist=0?style=flat-square" 
                     align="center"
                 />
             </a></div>
 
-## Credits
 
-[@eritislami](https://github.com/eritislami/) For the Reacting system to messages, great Idea i adopted that [@iCrawl/evobot](https://github.com/eritislami/evobot)
+
+
