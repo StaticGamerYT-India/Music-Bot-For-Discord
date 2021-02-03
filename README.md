@@ -47,7 +47,7 @@ Please subscribe my YT channel and like the video.
 
 <a href="https://www.youtube.com/channel/UCSqkMUjNAYX9m15ZMF60ClA?sub_confirmation=1" target="_blank" style="display: inline-block;">
                 <img
-                    src="https://1000logos.net/wp-content/uploads/2017/05/youtube-symbol.jpg" 
+                    src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/YouTube_social_white_circle_(2017).svg/1024px-YouTube_social_white_circle_(2017).svg.png" 
                     align="center"
                 />
  </a>
