@@ -1,10 +1,10 @@
-[![Music-Bot-With-Filters-v2](https://github-readme-stats.vercel.app/api/pin/?username=navaneethkm004&repo=Music-Bot-With-Filters-v2&theme=dark)](https://github.com/navaneethkm004/Music-Bot-With-Filters-v2)<br/>
+[![Music-Bot-With-Filters-v2](https://github-readme-stats.vercel.app/api/pin/?username=navaneethkm004&repo=Music-Bot-With-Filters-v2&theme=dark)](https://github.com/StaticGamerYT-India/Music-Bot-For-Discord)<br/>
 
 An advanced Music Bot, with 30+ Radio Stations, with capability of filters, like Bassboost, Nightcore, etc. and reaction interactivity. Based on ytdl-core with discord.js Guide Handler. With ideas from eritislami 
 
 ### **IMPORTANT!** 
 
-If you decide to use this Bot, [check out this Github repo first](https://github.com/navaneethkm004/Music-Bot-With-Filters) cause this is the same exact Bot with standard Discord/Unicode Emojis, which means that you can just simply use it instantly without changing the emojis!
+If you decide to use this Bot, [check out this Github repo first](https://github.com/StaticGamerYT-India/Music-Bot-For-Discord) cause this is the same exact Bot with standard Discord/Unicode Emojis, which means that you can just simply use it instantly without changing the emojis!
 
 #### Commands:
 
