@@ -1,64 +1,58 @@
-# Music-Bot-For-Discord
-Its a bot with lot of commands u can use , Sure u will love it@
+[![Music-Bot-With-Filters-v2](https://github-readme-stats.vercel.app/api/pin/?username=navaneethkm004&repo=Music-Bot-With-Filters-v2&theme=dark)](https://github.com/navaneethkm004/Music-Bot-With-Filters-v2)<br/>
 
-Commands:
+An advanced Music Bot, with 30+ Radio Stations, with capability of filters, like Bassboost, Nightcore, etc. and reaction interactivity. Based on ytdl-core with discord.js Guide Handler. With ideas from eritislami 
 
+### **IMPORTANT!** 
 
-filter <FILTERNAME> -- Set Audio - Effects
+If you decide to use this Bot, [check out this Github repo first](https://github.com/navaneethkm004/Music-Bot-With-Filters) cause this is the same exact Bot with standard Discord/Unicode Emojis, which means that you can just simply use it instantly without changing the emojis!
 
+#### Commands:
 
-loop -- Toggle music loop
+- `filter <FILTERNAME>` --    *Set Audio - Effects*
+- `loop`                --    *Toggle music loop*
+- `lyrics`              --    *Get lyrics for the currently playing song*
+- `nowplaying`          --    *Show current song*
+- `pause`               --    *Pause the currently playing music*
+- `play <TITEL | URL>`  --    *Plays song from YouTube/Stream*
+- `queue`               --    *Show the music queue and now playing*
+- `radio <RADIOSTATION>`--    *Play a Radiostation*
+- `remove`              --    *Remove song from the queue*
+- `resume`              --    *Resume currently playing music*
+- `search <TITEL | URL>`--    *Search and select videos to play*
+- `shuffle`             --    *Shuffles the current Queue!*
+- `skip`                --    *Skip the currently playing song*
+- `skipto <QUEUE NUM.>` --    *Skip to the selected queue number*
+- `stop`                --    *Stops the music*
+- `volume <VOL. NUM.>`  --    *Change volume*
+- `help [COMMAND]`      --    *Gives you a list of all help Commands*
 
-lyrics -- Get lyrics for the currently playing song
+**NO API-KEY NEEDED!** That's because it uses a scraper (`youtube-sr`)!
 
+## Installation | How to use the Bot
 
-nowplaying -- Show current song
+ **1.** Install [node.js v12](https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode) or higher
 
-pause -- Pause the currently playing music
+ **2.** Install [ffmpeg@latest](https://ffmpeg.org) 
 
-play <TITEL | URL> -- Plays song from YouTube/Stream
+ **3.** Download this repo and unzip it    |    or git clone it
+ 
+ **4.** Install all of the packages with **`npm install`**     |  the packages are   **`npm install node.js @discordjs/opus discord.js ffmpeg-static figlet lyrics-finder string-progressbar ytdl-core discord-ytdl-core youtube-sr`**
+ 
+ **5.** start the bot with **`node index.js`**<br/>
+ 
+ [![Run on Repl.it](https://repl.it/badge/github/navaneethkm004/Music-Bot-With-Filters-v2)](https://repl.it/github/navaneethkm004/Music-Bot-With-Filters-v2)</br>
 
-queue -- Show the music queue and now playing
+## **TUTORIAL** 
 
-radio <RADIOSTATION>-- Play a Radiostation
+Watch tutorial on YouTube!!<br/>
 
-remove -- Remove song from the queue
+[<img src="https://github.com/navaneethkm004/my-images/blob/main/Yellow%20Simple%20Education%20YouTube%20Channel%20Art.png?raw=true" width="917" height="515">](https://www.youtube.com/watch?v=IPv1uWSKC-Q)<br/>
 
-resume -- Resume currently playing music
+Please subscribe my YT channel and like the video.
 
-search <TITEL | URL>-- Search and select videos to play
+## Usage - config.json
 
-shuffle -- Shuffles the current Queue!
-
-skip -- Skip the currently playing song
-
-
-skipto <QUEUE NUM.> -- Skip to the selected queue number
-
-stop -- Stops the music
-
-volume <VOL. NUM.> -- Change volume
-
-help [COMMAND] -- Gives you a list of all help Commands
-
-NO API-KEY NEEDED! That's because it uses a scraper (youtube-sr)!
-
-
-
-Installation | How to use the Bot
-
-1. Install node.js v12 or higher
-
-2. Install ffmpeg@latest
-
-3. Download this repo and unzip it | or git clone it
-
-4. Install all of the packages with npm install | the packages are npm install node.js @discordjs/opus discord.js ffmpeg-static figlet lyrics-finder string-progressbar ytdl-core discord-ytdl-core youtube-sr
-
-5. start the bot with node index.js
-
-
-Usage - config.json
+```json
 {
   "TOKEN": "",
   "PREFIX": "+",
@@ -66,9 +60,26 @@ Usage - config.json
   "denyemoji": "EMOJIID",
   "erroremoji": "EMOJIID"
 }
+```
+
 It is important that you fill in every item of the JSON FILE! every emoji used in this BOT is a custom emoji, the emojis are listed down below as images, which you can download and upload to your server to use them. NOTE: you gotta change emoji.id to emoji.name if you use discord / unicode emojis! Soon a new Repo with standard emojis will be awailable for easy usages!
 
-NOTE:
-Make sure that you have installed FFmpeg, and added it to Systemenvironment variables (PATH)
+## **NOTE:**
 
-If you are having errors/problems with starting delete the package.json file and do, before you install the packages npm init
+*Make sure that you have installed [FFmpeg](https://ffmpeg.org), and added it to Systemenvironment variables (PATH)*
+
+*If you are having errors/problems with starting delete the package.json file and do, before you install the packages `npm init`*
+
+## SUPPORT ME
+
+<div align="center">
+            <a href="https://www.buymeacoffee.com/navaneethkm" target="_blank" style="display: inline-block;">
+                <img
+                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square" 
+                    align="center"
+                />
+            </a></div>
+
+## Credits
+
+[@eritislami](https://github.com/eritislami/) For the Reacting system to messages, great Idea i adopted that [@iCrawl/evobot](https://github.com/eritislami/evobot)
